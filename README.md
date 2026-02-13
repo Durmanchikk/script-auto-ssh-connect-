@@ -6,7 +6,7 @@ Script for automatic connection to an SSH server
 
 ## install 
 ```
-git curl 
+git curl https://github.com/Durmanchikk/script-auto-ssh-connect-/blob/main/project_ssh.py
 ```
 
 ## manual
