@@ -8,7 +8,10 @@ Script for automatic connection to an SSH server
 ```
 git curl https://github.com/Durmanchikk/script-auto-ssh-connect-/blob/main/project_ssh.py
 ```
-
+### or
+```bash
+git clone https://github.com/Durmanchikk/script-auto-ssh-connect.git
+```
 ## manual
 
 -ls view
